@@ -1,0 +1,5 @@
+external_data_path: data/external/records.csv
+
+# 天气API配置
+weather_api_id: '10013023'
+weather_api_key: '4519d1d82ad334242a2d1a9632b1420b'
